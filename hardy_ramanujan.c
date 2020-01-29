@@ -13,7 +13,7 @@ To-do list
 int a,b,c,d;
 int lBound=1;
 int uBound = 15;
-int nPower = 3;
+int nPower = 2;
 
 
 for (a = 1; a <= uBound; a++)
